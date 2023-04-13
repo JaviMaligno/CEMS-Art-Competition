@@ -59,4 +59,7 @@ rsconnect/
 *.keras
 *.rtf
 *.mp4
+*.docx
+*.wav
+*.jams
 venv/
