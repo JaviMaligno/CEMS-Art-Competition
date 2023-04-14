@@ -62,4 +62,7 @@ rsconnect/
 *.docx
 *.wav
 *.jams
+__pycache__
+*.ipynb
+CEMSDataArtCompetition
 venv/
